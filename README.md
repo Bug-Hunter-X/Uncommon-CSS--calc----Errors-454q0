@@ -1,0 +1,3 @@
+# Uncommon CSS `calc()` Errors
+
+This repository demonstrates some less common errors that can occur when using the `calc()` function in CSS.  These issues often involve unit compatibility, missing spaces in the expression, and unexpected behaviors with nested calculations.  The `bug.css` file contains examples of these problems, and `bugSolution.css` provides the corrected versions.  Understanding these edge cases is crucial for robust CSS development. 
